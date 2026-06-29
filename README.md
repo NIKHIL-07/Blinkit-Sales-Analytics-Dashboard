@@ -4,7 +4,7 @@
 This project features an interactive Power BI dashboard designed to analyze the sales performance, outlet characteristics, and product inventory of Blinkit (India's Last Minute App). The objective of this analysis is to understand purchasing patterns, evaluate outlet efficiency, and identify key drivers for revenue generation to help optimize future business strategies.
 
 ## 📊 Dashboard Snapshot
-![Blinkit Dashboard](Blinkit_Dashboard_Image.png)
+![Blinkit Dashboard](Blinkit%20Analysis%20Power%20BI%20Project/Blinkit_Dashboard_Image.png))
 
 ## 💡 Key Performance Indicators (KPIs)
 * **Total Sales:** $1.20M
